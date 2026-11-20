@@ -1,0 +1,24 @@
+portfolio.png, roblox.png, luau.svg
+Reused without alteration from Wharkk's public portfolio:
+https://wharkk-developer.framer.website/
+https://framerusercontent.com/images/RmsD6YOrIO62FdzQPQ7T0800MQ.png
+https://framerusercontent.com/images/IIg04ViAq86WM3nR2KUDF24QfE.png
+https://framerusercontent.com/images/zoOlUbUjURRzK7F1CLxOb4uM9M.svg
+
+modulescript-dark.png, modulescript-light.png
+Roblox Studio ModuleScript class icons, copied without alteration from:
+content/studio_svg_textures/Shared/InsertableObjects/{Dark,Light}/Standard/ModuleScript@3x.png
+Roblox Studio installation version-8d7a1009c17e4ff8. Roblox Corporation assets.
+
+linkedin.svg, jest.svg
+Devicon project, MIT license (see DEVICON-LICENSE.txt).
+https://github.com/devicons/devicon
+https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg
+All product names and logos belong to their respective owners.
+
+wharkk-laptop.png, wharkk-laptop-smooth.gif
+Original illustration and typing frames generated with the built-in image_gen tool
+using Wharkk's avatar screenshots captured in Roblox Studio and portfolio artwork.
+The revised GIF keeps one generated pose fixed and animates localized hand movement
+with continuous FFmpeg video warps. Encoded as an optimized transparent 20fps GIF.
