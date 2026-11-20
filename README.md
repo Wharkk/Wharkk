@@ -1,4 +1,4 @@
-<h2> Well hello there! <img src="./assets/r2.gif" width="30"></h2>
+<h2><img src="./assets/r2.gif" width="50"> Well hello there!</h2>
 I'm Brieuc, but you can call me Bryan if that's easier! 
 
 You might also know me as wharkk.
