@@ -1,7 +1,8 @@
 <h2> Well hello there! <img src="./assets/r2.gif" width="32"></h2>
-I'm Brieuc, but you can call me Bryan if that's easier! <img src="./assets/turtle.gif" width="30">
-
-You might also know me as wharkk.
+<p>I'm Brieuc, but you can call me Bryan if that's easier! 
+<br />
+You might also know me as wharkk <img src="./assets/turtle.gif" width="30"> 
+</p>
 
 <img src="./assets/wharkk.gif" width="300" align="right" alt="Pixel-art wharkk typing at a laptop, with a duck on his crown and blue-purple lighting">
 
