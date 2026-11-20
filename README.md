@@ -1,12 +1,7 @@
-## Well hello there!
-I'm Brieuc. You might know me as **wharkk**.
+## Well hello there! 👋
+I'm Brieuc, but you can call me Bryan if that's easier! 
 
-Roblox Game Engineer with 7 years of experience building gameplay systems,
-supporting live games, and creating tools for fellow developers.
-
-<img src="./assets/portfolio.png" width="18" height="18" align="center" alt="Portfolio icon"> <a href="https://wharkk-developer.framer.website/">Portfolio</a> &nbsp;
-<img src="./assets/roblox.png" width="18" height="18" align="center" alt="Roblox icon"> <a href="https://www.roblox.com/users/823639953/profile">Roblox</a> &nbsp;
-<img src="./assets/linkedin.svg" width="18" height="18" align="center" alt="LinkedIn icon"> <a href="https://www.linkedin.com/in/brieuc-guillermic-311521298/">LinkedIn</a>
+You might also know me as wharkk.
 
 <img src="./assets/wharkk-laptop-smooth.gif" width="220" align="right" alt="Pixel-art wharkk typing at a laptop, with a duck on his crown and blue-purple lighting">
 
@@ -30,8 +25,8 @@ local wharkk = {
 return wharkk
 ```
 
-<img src="./assets/luau.svg" width="18" height="18" align="center" alt=""> <a href="https://luau.org/">Luau</a> &nbsp;
-<img src="./assets/roblox.png" width="18" height="18" align="center" alt=""> <a href="https://create.roblox.com/docs/studio">Roblox Studio</a> &nbsp;
-<img src="./assets/jest.svg" width="18" height="18" align="center" alt=""> <a href="https://github.com/Roblox/jest-roblox">Jest</a>
+<img src="./assets/portfolio.png" width="18" height="18" align="center" alt="Portfolio icon"> <a href="https://wharkk-developer.framer.website/">Portfolio</a> &nbsp;
+<img src="./assets/roblox.png" width="18" height="18" align="center" alt="Roblox icon"> <a href="https://www.roblox.com/users/823639953/profile">Roblox</a> &nbsp;
+<img src="./assets/linkedin.svg" width="18" height="18" align="center" alt="LinkedIn icon"> <a href="https://www.linkedin.com/in/brieuc-guillermic-311521298/">LinkedIn</a>
 
 🎮 See my gameplay demos and project contributions on my [portfolio](https://wharkk-developer.framer.website/).
