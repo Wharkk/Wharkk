@@ -3,7 +3,7 @@ I'm Brieuc, but you can call me Bryan if that's easier!
 
 You might also know me as wharkk.
 
-<img src="./assets/wharkk.gif" width="400" align="right" alt="Pixel-art wharkk typing at a laptop, with a duck on his crown and blue-purple lighting">
+<img src="./assets/wharkk.gif" width="350" align="right" alt="Pixel-art wharkk typing at a laptop, with a duck on his crown and blue-purple lighting">
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/modulescript-dark.png"><img src="./assets/modulescript-light.png" width="25" height="25" align="top" alt=""></picture> A little about me</h3>
 
