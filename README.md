@@ -21,13 +21,11 @@ local wharkk = {
     },
 
     shipped = {
-        {
-            game = "Build A Cart",
+        ["Build A Cart"] = {
             role = "Gameplay & live ops",
             result = "500 -> 19k+ peak CCU",
         },
-        {
-            game = "Steal A Brainrot Egg",
+        ["Steal A Brainrot Egg"] = {
             role = "Gameplay, UI & map, built in ~25h",
             result = "13k peak CCU, 25M+ visits",
         },
