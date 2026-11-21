@@ -12,15 +12,28 @@ You might also know me as wharkk <img src="./assets/turtle.gif" width="30">
 local wharkk = {
     language = "Luau",
     workspace = "Roblox Studio",
-    testing = "Jest",
+    testing = "Jest Roblox",
 
     enjoys = {
         "Making interactions feel good",
-        "Finding my way around existing codebases",
+        "Creating experiences players want to stay in",
         "Building tools I'll actually use",
     },
 
-    projects = { "RoGit", "Slime TCG", "UDX" },
+    shipped = {
+        {
+            game = "Build A Cart",
+            role = "Gameplay & live ops",
+            result = "500 -> 19k+ peak CCU",
+        },
+        {
+            game = "Steal A Brainrot Egg",
+            role = "Gameplay, UI & map, built in ~25h",
+            result = "13k peak CCU, 25M+ visits",
+        },
+    },
+
+    building = { "RoGit CLI", "UDX", "Slime TCG" },
 }
 
 return wharkk
