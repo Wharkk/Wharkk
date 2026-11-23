@@ -17,7 +17,8 @@ local wharkk = {
     enjoys = {
         "Creating experiences players want to stay in",
         "Building tools I'll actually use, and might help others",
-        "Drinking coffee" -- ☕ What goes best with a cup of coffee? Another cup!
+        "Drinking coffee"
+        -- ☕ What goes best with a cup of coffee? Another cup!
     },
 
     contributions = {
