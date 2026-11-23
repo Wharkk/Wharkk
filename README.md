@@ -16,7 +16,6 @@ local wharkk = {
 
     enjoys = {
         "Creating experiences players want to stay in",
-        "Making interactions feel good",
         "Building tools I'll actually use, and might help others",
         "Drinking coffee"
     },
