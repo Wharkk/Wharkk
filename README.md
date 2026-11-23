@@ -11,7 +11,7 @@ You might also know me as wharkk <img src="./assets/turtle.gif" width="30">
 ```lua
 local wharkk = {
     language = "Luau",
-    workspace = "Roblox Studio",
+    workspaces = { "Roblox Studio", "Rojo" }
     testing = "Jest Roblox",
 
     enjoys = {
