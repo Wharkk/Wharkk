@@ -15,9 +15,9 @@ local wharkk = {
     testing = "Jest Roblox",
 
     enjoys = {
-        "Making interactions feel good",
         "Creating experiences players want to stay in",
-        "Building tools I'll actually use",
+        "Making interactions feel good",
+        "Building tools I'll actually use, and might help others",
     },
 
     shipped = {
