@@ -23,7 +23,7 @@ local wharkk = {
 
     contributions = {
         ["Build A Cart"] = {
-            role = "Gameplay & live ops (+ revival)",
+            role = "Gameplay & live ops, helped revive the game",
             gameStats = "500 -> 19k+ peak CCU, 122.5M+ visits",
         },
         ["Steal A Brainrot Egg"] = {
