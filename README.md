@@ -17,17 +17,17 @@ local wharkk = {
     enjoys = {
         "Creating experiences players want to stay in",
         "Building tools I'll actually use, and might help others",
-        "Drinking coffee"
+        "Drinking coffee" -- ☕ What goes best with a cup of coffee? Another cup!
     },
 
     contributions = {
         ["Build A Cart"] = {
-            role = "Gameplay & live ops",
-            result = "500 -> 19k+ peak CCU",
+            role = "Gameplay & live ops (+ revival)",
+            gameStats = "500 -> 19k+ peak CCU, 122.5M+ visits",
         },
         ["Steal A Brainrot Egg"] = {
             role = "Gameplay, UI & map, built in ~25h",
-            result = "13k peak CCU, 25M+ visits",
+            gameStats = "13k peak CCU, 25M+ visits",
         }
     },
 
