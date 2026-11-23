@@ -1,4 +1,4 @@
-<h2> Hello there! <img src="./assets/r2.gif" width="32"></h2>
+<h1> Hello there! <img src="./assets/r2.gif" width="32"></h1>
 <p>I'm Brieuc, but you can call me Bryan if that's easier! 
 <br />
 You might also know me as wharkk <img src="./assets/turtle.gif" width="30"> 
