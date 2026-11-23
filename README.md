@@ -15,12 +15,12 @@ local wharkk = {
     testing = "Jest Roblox",
 
     enjoys = {
-        "Creating experiences players want to stay in",
-        "Making interactions feel good",
+        "Creating experiences players want to stay in and making interactions feel good",
         "Building tools I'll actually use, and might help others",
+        "Drinking coffee"
     },
 
-    shipped = {
+    contributions = {
         ["Build A Cart"] = {
             role = "Gameplay & live ops",
             result = "500 -> 19k+ peak CCU",
